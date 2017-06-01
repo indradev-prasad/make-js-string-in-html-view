@@ -9,3 +9,7 @@ function html_entity_decode_my(message) {
         }[m] + ';';
     });
 }
+/*
+example
+message="<script>alert('hiiiii')</script>";
+*/
